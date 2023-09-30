@@ -1,3 +1,5 @@
+# W3Schools Python Conditions: https://www.w3schools.com/python/python_conditions.asp
+# Real Python Python Loops: https://realpython.com/python-for-loop/
 Q 1: Write a program that checks if a given number is positive, negative, or zero. <br />
 Q 2: Create a loop that prints the first 10 even numbers. <br />
 Q 3: Implement a program that finds the largest number in a list. <br />

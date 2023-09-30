@@ -1,3 +1,5 @@
+# W3Schools Python Classes: https://www.w3schools.com/python/python_classes.asp
+# Real Python Python OOP: https://realpython.com/python3-object-oriented-programming/
 Q 1: Create a class to represent a basic calculator with add, subtract, multiply, and divide methods. <br />
 Q 2: Create a class to represent a book with attributes like title, author, and publication year. <br />
 Q 3: Define a class for a Circle with methods to calculate its area and circumference. <br />

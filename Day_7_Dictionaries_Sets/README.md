@@ -1,3 +1,5 @@
+# W3Schools Python Dictionaries: https://www.w3schools.com/python/python_dictionaries.asp
+# Real Python Dictionaries and Sets: https://realpython.com/python-dicts/
 Q 1: Create a dictionary to store information about a person (name, age, address). <br />
 Q 2: Add a new key-value pair to an existing dictionary. <br />
 Q 3: Create a set of unique numbers from a list of numbers. <br />

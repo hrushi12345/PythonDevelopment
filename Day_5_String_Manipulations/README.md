@@ -1,3 +1,5 @@
+# W3Schools Python Strings: https://www.w3schools.com/python/python_strings.asp
+# Real Python Python String Formatting: https://realpython.com/python-string-formatting/
 Q 1: Write a program that takes a sentence as input and counts the number of words in it. <br />
 Q 2: Given a string, write a function to remove all vowels from it and return the modified string. <br />
 Q 3: Write a Python program to find the length of the longest word in a sentence. <br />

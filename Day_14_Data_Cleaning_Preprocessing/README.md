@@ -1,3 +1,5 @@
+# Data Cleaning with Python and Pandas: https://realpython.com/python-data-cleaning-numpy-pandas/
+# Data Preprocessing with Scikit-Learn: https://scikit-learn.org/stable/modules/preprocessing.html
 Q 1: Remove missing values from a Pandas DataFrame. <br />
 Q 2: Convert categorical variables into numerical values using Label Encoding. <br />
 Q 3: Scale numerical features using Min-Max Scaling. <br />

@@ -1,3 +1,5 @@
+# Matplotlib Official Website: https://matplotlib.org/
+# Seaborn Official Website: https://seaborn.pydata.org/
 Q 1: Create a simple line plot using Matplotlib to visualize a series of data points. <br />
 Q 2: Generate a scatter plot using Matplotlib to visualize the relationship between two variables. <br />
 Q 3: Create a bar plot using Seaborn to compare the categories in a dataset. <br />

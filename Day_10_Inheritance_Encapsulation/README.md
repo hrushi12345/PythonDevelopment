@@ -1,3 +1,5 @@
+# W3Schools Python Inheritance: https://www.w3schools.com/python/python_inheritance.asp
+# Real Python Inheritance and Composition: https://realpython.com/inheritance-composition-python/
 Q 1: Create a base class Animal with a method sound() and create derived classes Dog and Cat with their own sound(). <br />
 Q 2: Implement a class hierarchy to represent different types of vehicles (Car, Bike) with their own attributes and methods. <br />
 Q 3: Create a class Person with private attributes and define methods to get and set the values of those attributes. <br />

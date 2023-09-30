@@ -1,3 +1,5 @@
+# Scikit-Learn Official Website: https://scikit-learn.org/stable/
+# Machine Learning Basics: https://scikit-learn.org/stable/getting_started.html
 Q 1: Split data into training and testing sets using Scikit-Learn. <br />
 Q 2: Train a Linear Regression model using Scikit-Learn. <br />
 Q 3: Evaluate the performance of a model using accuracy score. <br />

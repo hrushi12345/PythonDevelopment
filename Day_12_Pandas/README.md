@@ -1,3 +1,5 @@
+# Pandas Official Website: https://pandas.pydata.org
+# Pandas Getting Started: https://pandas.pydata.org/docs/getting_started/index.html
 Q 1: Create a Pandas Series from a Python list and perform basic operations like filtering, sorting, etc. <br />
 Q 2: Read a CSV file into a Pandas DataFrame and perform basic data manipulation operations. <br />
 Q 3: Create a Pandas DataFrame from a dictionary and perform filtering and grouping operations. <br />

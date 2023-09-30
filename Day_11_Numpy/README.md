@@ -1,3 +1,5 @@
+# NumPy Official Website: https://numpy.org
+# NumPy Quickstart Tutorial: https://numpy.org/doc/stable/user/quickstart.html
 Q 1: Create a NumPy array from a Python list and perform basic operations like addition, multiplication, etc. <br />
 Q 2: Generate a NumPy array of random numbers and calculate its mean, median, and standard deviation. <br />
 Q 3: Create a NumPy array and reshape it into a different shape. <br />

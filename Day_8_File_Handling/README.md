@@ -1,3 +1,5 @@
+# W3Schools Python File Handling: https://www.w3schools.com/python/python_file_handling.asp
+# Real Python Read and Write Files: https://realpython.com/read-write-files-python/
 Q 1: Write a program that reads a text file and prints its contents. <br />
 Q 2: Create a new text file and write some content into it. <br />
 Q 3: Read a CSV file and process its data. <br />

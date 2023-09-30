@@ -1,3 +1,5 @@
+# W3Schools Python Functions: https://www.w3schools.com/python/python_functions.asp
+# Real Python Defining Functions: https://realpython.com/defining-your-own-python-function/
 Q 1: Write a function to calculate the area of a circle given its radius. <br />
 Q 2: Create a function to check if a number is prime. <br />
 Q 3: Implement a function that reverses a given string. <br />

@@ -1,3 +1,6 @@
+# W3Schools Python Course: https://www.w3schools.com/python/python_intro.asp
+# Codecademy Python Course: https://www.codecademy.com/learn/learn-python-3
+# GeeksforGeeks Python Course: https://www.geeksforgeeks.org/python-programming-language/
 Q 1: Write a Python program to print "Hello, World!" <br />
 Q 2: Calculate the sum of two numbers entered by the user. <br />
 Q 3: Convert temperature from Celsius to Fahrenheit. <br />

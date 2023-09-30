@@ -1,3 +1,5 @@
+# W3Schools Python Variables: https://www.w3schools.com/python/python_variables.asp
+# Real Python Data Types: https://realpython.com/python-data-types/
 Q 1: Create variables for storing a person's name, age, and average test score. <br />
 Q 2: Concatenate two strings and print the result. <br />
 Q 3: Create a list of fruits and access elements using indexing. <br />

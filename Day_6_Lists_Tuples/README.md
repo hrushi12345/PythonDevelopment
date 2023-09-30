@@ -1,3 +1,5 @@
+# W3Schools Python Lists: https://www.w3schools.com/python/python_lists.asp
+# Real Python Lists and Tuples: https://realpython.com/python-lists-tuples/
 Q 1: Given a list of numbers, find the sum and average using built-in functions. <br />
 Q 2: Create a list of fruits and add a new fruit to the list. <br />
 Q 3: Access elements in a tuple using indexing. <br />
